@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+openpyxl
+contextily
+geodatasets
+statsmodels
+tensorflow
+optuna
+requests
+jupyter
+nbconvert

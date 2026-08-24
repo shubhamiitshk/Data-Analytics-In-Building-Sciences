@@ -1,0 +1,9 @@
+Optuna Hyperparameter Optimization Results
+========================================
+Best RMSE: 0.0090 kW
+
+Best Hyperparameters:
+  n_estimators: 51
+  max_depth: 28
+  min_samples_split: 10
+  min_samples_leaf: 6
